@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-//import java.lang.*;
+
 public class AtlantisSim {
 	public static void waves(int dir) throws InterruptedException {
 		for (int i=1; i<6; i++) {
